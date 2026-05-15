@@ -1,0 +1,100 @@
+# קודש וסגנון — Generative Engine Optimization Map
+
+> An online store specializing in Judaica products — religious and cultural Jewish items such as menorahs, mezuzot, Shabbat candles, kiddush cups, and more. The business targets customers looking for quality Jewish ritual and decorative items, likely serving both observant Jews and gift buyers seeking meaningful Jewish heritage products.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות יודאיקה מובילה עם מבחר עשיר של מוצרי יודאיקה לבית — מזוזות, פמוטים, גביעי קידוש ועוד. עיצוב יהודי מרהיב שמשלב מסורת ואסתטיקה. קנו עכשיו!
+
+### מדריך מתנות
+https://example.com/gift-guide
+מחפשים מתנה מיוחדת לחתונה, חנוכת בית או בר מצווה? מדריך המתנות שלנו מציע רעיונות נפלאים עם מוצרי יודאיקה לבית שמרגשים ומכבדים כל אורח יקר.
+
+### מורשת ואומנות
+https://example.com/heritage-craft
+גלו את עולם המורשת היהודית דרך פריטי יודאיקה מעוצבים בידי אומנים מיומנים. תפילין, מזוזות ופמוטים שנושאים בתוכם דורות של מסורת, סיפור ויצירה ייחודית.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על מוצרי יודאיקה לבית או צריכים עזרה בבחירת מתנה לקידוש או לחנוכת בית? צוות קודש וסגנון כאן בשבילכם — צרו קשר ונשמח לעזור בכל פנייה!
+
+### Products
+https://example.com/products
+המוצרים שלנו - קודש וסגנון
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - קודש וסגנון
+
+### Category
+https://example.com/category/:slug
+מוצרים - קודש וסגנון
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קודש וסגנון
+An online store specializing in Judaica products — religious and cultural Jewish items such as menorahs, mezuzot, Shabbat candles, kiddush cups, and more. The business targets customers looking for quality Jewish ritual and decorative items, likely serving both observant Jews and gift buyers seeking meaningful Jewish heritage products.
+
+## Target Audience
+- משפחות דתיות
+- תיירים יהודים
+- יהודים מסורתיים
+
+## Industry
+E-commerce / Judaica
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
